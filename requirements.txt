@@ -7,3 +7,4 @@ scikit-learn
 tensorflow
 nltk 
 spacy
+contractions
