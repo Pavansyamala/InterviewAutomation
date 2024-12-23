@@ -8,3 +8,5 @@ tensorflow
 nltk 
 spacy
 contractions
+sentence-transformers
+gensim
