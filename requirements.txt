@@ -11,3 +11,5 @@ contractions
 sentence-transformers
 gensim
 textblob
+xgboost
+optuna
