@@ -10,3 +10,4 @@ spacy
 contractions
 sentence-transformers
 gensim
+textblob
